@@ -1,0 +1,12 @@
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
+C:\Users\Maq 6\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbprojAssemblyReference.cache
